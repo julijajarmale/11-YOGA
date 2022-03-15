@@ -17,6 +17,9 @@ Design: YOGA https://
 ## Project features
 
 -   Github pages
+-   png img
+-   header: logo + nav
+-   fixed width containers
 
 ## Authors
 
