@@ -21,6 +21,7 @@ Design: YOGA https://
 -   header: logo + nav
 -   fixed width containers
 
+
 ## Authors
 
 Julija: [Github](https://github.com/julijajarmale)
