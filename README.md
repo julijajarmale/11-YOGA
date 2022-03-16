@@ -4,15 +4,15 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Braintech portfolio
+# Yoga
 
 _35 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://
+Site published at: https://julijajarmale.github.io/11-YOGA/
 
-Design: YOGA https://
+Design: YOGA https://www.pinterest.com/pin/464293042845202629/
 
 ## Project features
 
