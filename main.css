@@ -3,24 +3,24 @@ body {
 }
 
 
-header,
-main {
-    width: 800px; 
-    margin-left: calc(50% - 400px);
+body > header,
+body > main {
+    width: 1000px; 
+    margin-left: calc(50% - 500px);
     display: inline-block;
 }
      
-     img {
+header > img {
         float: left;
         height: 46px;
      }
 
-     nav {
+header > nav {
          float: right;
          margin-top: 13px;
      }
 
-     a{
+nav > a{
         display: inline-block;
         font-size: 18px;
         line-height: 20px;
@@ -29,21 +29,32 @@ main {
         color: rgb(43,40,61);
         padding-bottom: 5px;
      }
-     a:hover{
+nav > a:hover{
          border-bottom: 2px solid red;
      }
-     a:first-child{
+nav > a:first-child{
         border-bottom: 2px solid red;
      }
      main {
         margin-top:100px;    
         }
+
     div{
-        float:left
-        width: 50%
 
     }
-    image1{
-        width: 200px;
+
+    h1{
+
     }
+
+    p{
+
     }
+
+   div > a{
+
+     }
+
+     img{
+
+     }
