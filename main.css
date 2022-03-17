@@ -1,3 +1,11 @@
+body,
+body * {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -35,11 +43,15 @@ nav > a:hover{
 nav > a:first-child{
         border-bottom: 2px solid red;
      }
-     main {
+
+
+body > main {
         margin-top:100px;    
         }
 
-    div{
+main > div{
+    width: 45%;
+    float:left;
 
     }
 
@@ -55,6 +67,10 @@ nav > a:first-child{
 
      }
 
-     img{
-
+    main > img{
+        width: 55%;
+        height: 300px;
+        float: right;
+        background-color: yellow;
+        
      }
