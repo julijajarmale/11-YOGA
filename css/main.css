@@ -16,6 +16,7 @@ body > main {
     width: 1000px; 
     margin-left: calc(50% - 500px);
     display: inline-block;
+    margin-top: 10px;
 }
      
 header > img {
@@ -56,17 +57,29 @@ main > div{
     padding-right: 10%;
 
     }
-
-    h1{
+    
+    h1 > span {
+        margin-bottom: 10px;
+        font-weight: normal;
+        font-family: cursive;
 
     }
-
+span{ 
+    color: tomato;
+}
     p{
+        margin-bottom: 25px;
 
     }
 
    div > a{
-
+        padding: 10px;
+        padding-left: 25px;
+        padding-right: 25px;
+        background-color: tomato;
+        text-decoration: none;
+        border-radius: 5px;
+        color: white;
      }
 
     main > img{
