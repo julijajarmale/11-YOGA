@@ -21,6 +21,7 @@ body > main {
 header > img {
         float: left;
         height: 46px;
+        margin-top: 2px;
      }
 
 header > nav {
@@ -52,6 +53,7 @@ body > main {
 main > div{
     width: 45%;
     float:left;
+    padding-right: 10%;
 
     }
 
@@ -69,8 +71,9 @@ main > div{
 
     main > img{
         width: 55%;
-        height: 300px;
-        float: right;
-        background-color: yellow;
+        height: 400px;
+        float: left;
+        object-fit:contain;
+        object-position: center;
         
      }
